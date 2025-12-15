@@ -8,7 +8,8 @@
 - Emmanuel: passo 3
 - Gabriel: passo 4
 - Marconi: passos 5 e 6
-- Nilvan: passos 7 e 8
+- 7. O paciente é direcionado ao médico conforme a prioridade definida na classificação de risco, garantindo que os casos mais graves sejam atendidos primeiro.
+- 8. O médico solicita exames apenas quando necessário, para auxiliar no diagnóstico e na definição da conduta clínica.
 - Rodrigo: 9
 - Victor: passo 10
 - Vinicius: passos 11 e 12
